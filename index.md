@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+Contact me page
+https://sjackson4430.github.io/folio/about/contact-us.html
 
 You can use the [editor on GitHub](https://github.com/sjackson4430/folio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
