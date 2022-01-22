@@ -1,3 +1,3 @@
 layout: page
 title: "Contact"
-permalink: /https://sjackson4430.github.io/folio/contact/
+permalink: /https://sjackson4430.github.io/folio/contact.md
